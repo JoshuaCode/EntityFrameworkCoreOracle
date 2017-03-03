@@ -1,1 +1,1 @@
-EntityFrameworkCoreOracle
+This is a sample application created as part of learning Entity Framework Core. I created a [blog post](https://joshuachini.wordpress.com/2017/03/03/getting-started-with-entity-framework-core/) that describes how this project was created.
